@@ -31,6 +31,9 @@ The dataset used in this project is the Walmart dataset from Kaggle. It includes
 - Store: The store number
 - Date: The week of sales
 - Weekly_Sales: The sales for the given week
+- CPI: Consumer Price Index
+- Temperature
+- Unemployment Rate
 - Other relevant features like promotions, holidays, etc.
 
 ## Installation
